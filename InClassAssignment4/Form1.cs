@@ -51,7 +51,7 @@ namespace InClassAssignment4
                 //convert seconds to minutes
                 else if ((inputSeconds >= 60) & (inputSeconds < 3600))
                 {
-                    // %m is a special format that removes leading zeros ( see Microsoft .NET Fundamentals > Custom TimeSpan Format Strings )
+                    // %m is a special format that removes leading zeros ( see Microsoft .NET Fundamentals > Custom TimeSpan Format Strings. )
                     lblOutput.Text = resultText + resultNumber.ToString("%m") + " whole minutes";
                 }
                 //convert seconds to hours
