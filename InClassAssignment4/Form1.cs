@@ -11,7 +11,7 @@ using System.Windows.Forms;
 //Elijah Olmos
 //CST-117
 //October 7, 2020
-//In Class Assignment 4 test2
+//In Class Assignment 4 IN Class Tag
 
 namespace InClassAssignment4
 {
